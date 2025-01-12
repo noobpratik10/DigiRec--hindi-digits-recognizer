@@ -2,7 +2,7 @@
 A machine learning project to recognize Hindi handwritten digits using TensorFlow. This repository includes two models: **Artificial Neural Network (ANN)** and **Convolutional Neural Network (CNN)**, along with a user-friendly **Streamlit** interface for uploading digit images and obtaining predictions.
 
 ## Demo
-- The streamlit web application has been deployed on streamlit community cloud. Check it out now: [DigiRec Web App](https://digirec--hindi-digits-recognizer.streamlit.app/).
+- The streamlit web application has been deployed on streamlit community cloud: [DigiRec Web App](https://digirec--hindi-digits-recognizer.streamlit.app/).
 
 ## Features
 - **Digit Recognition**: Recognizes digits from 0 to 9 written in Hindi script.
